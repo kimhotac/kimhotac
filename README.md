@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kim-ho-tak
+- 👋 Hi, I’m @Kimhotak
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning pyton
 <!---
